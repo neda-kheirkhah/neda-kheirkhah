@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Medical AI Banner" width="100%">
+</p>
+
 # Hi, I'm Neda Kheirkhah 👋
 
 🎓 MSc Student in Artificial Intelligence
